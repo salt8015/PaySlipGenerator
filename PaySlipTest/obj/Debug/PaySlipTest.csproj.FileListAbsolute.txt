@@ -1,0 +1,10 @@
+E:\Tony\Projects\PaySlip\PaySlipTest\bin\Debug\PaySlipTest.dll
+E:\Tony\Projects\PaySlip\PaySlipTest\bin\Debug\PaySlipTest.pdb
+E:\Tony\Projects\PaySlip\PaySlipTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Tony\Projects\PaySlip\PaySlipTest\bin\Debug\PaySlip.exe
+E:\Tony\Projects\PaySlip\PaySlipTest\bin\Debug\PaySlip.pdb
+E:\Tony\Projects\PaySlip\PaySlipTest\obj\Debug\PaySlipTest.csprojResolveAssemblyReference.cache
+E:\Tony\Projects\PaySlip\PaySlipTest\obj\Debug\PaySlipTest.dll
+E:\Tony\Projects\PaySlip\PaySlipTest\obj\Debug\PaySlipTest.pdb
+E:\Tony\Projects\PaySlip\PaySlipTest\bin\Debug\nunit.framework.xml
+E:\Tony\Projects\PaySlip\PaySlipTest\bin\Debug\LumenWorks.Framework.IO.dll

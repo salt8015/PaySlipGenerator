@@ -1,0 +1,11 @@
+E:\Tony\Projects\PaySlip\PaySlip\obj\Debug\PaySlip.exe
+E:\Tony\Projects\PaySlip\PaySlip\obj\Debug\PaySlip.pdb
+E:\Tony\Projects\PaySlip\PaySlip\bin\Debug\PaySlip.exe.config
+E:\Tony\Projects\PaySlip\PaySlip\bin\Debug\PaySlip.exe
+E:\Tony\Projects\PaySlip\PaySlip\bin\Debug\PaySlip.pdb
+E:\Tony\Projects\PaySlip\PaySlipGenerator\bin\Debug\PaySlip.exe.config
+E:\Tony\Projects\PaySlip\PaySlipGenerator\bin\Debug\PaySlip.exe
+E:\Tony\Projects\PaySlip\PaySlipGenerator\bin\Debug\PaySlip.pdb
+E:\Tony\Projects\PaySlip\PaySlipGenerator\obj\Debug\PaySlipGenerator.csprojResolveAssemblyReference.cache
+E:\Tony\Projects\PaySlip\PaySlipGenerator\obj\Debug\PaySlip.exe
+E:\Tony\Projects\PaySlip\PaySlipGenerator\obj\Debug\PaySlip.pdb

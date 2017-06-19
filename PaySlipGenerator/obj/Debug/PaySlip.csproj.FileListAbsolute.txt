@@ -1,0 +1,6 @@
+E:\Tony\Projects\PaySlip\PaySlip\bin\Debug\PaySlip.exe.config
+E:\Tony\Projects\PaySlip\PaySlip\bin\Debug\PaySlip.exe
+E:\Tony\Projects\PaySlip\PaySlip\bin\Debug\PaySlip.pdb
+E:\Tony\Projects\PaySlip\PaySlip\obj\Debug\PaySlip.csprojResolveAssemblyReference.cache
+E:\Tony\Projects\PaySlip\PaySlip\obj\Debug\PaySlip.exe
+E:\Tony\Projects\PaySlip\PaySlip\obj\Debug\PaySlip.pdb
